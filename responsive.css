@@ -1,0 +1,101 @@
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+	.logo img {
+		width: 25%;
+		height: auto;
+		margin-left: 3%;
+		margin-bottom: 5%;
+	}
+	.nav-menu {
+		margin-top: 5%;
+	}
+	.animes-movies img {
+		width: 38%;
+		height: auto;
+	}
+	.anime-series img {
+		width: 38%;
+		height: auto;
+	}
+	#row img {
+		margin-left: 8%;
+	}
+	.movies-sec-para {
+		font-size: 25px;
+	}
+	.series-sec-para {
+	font-size: 25px;
+	}
+}
+@media only screen and (max-width: 767px) {
+	.logo img {
+		width: 23%;
+		height: auto;
+	}
+	.nav-menu {
+		margin-top: 5%;
+	}
+	.animes-movies img {
+		width: 40%;
+		height: auto;
+	}
+	.anime-series img {
+		width: 40%;
+		height: auto;
+	}
+	#row img {
+		margin-left: 6.5%;
+	}
+	.movies-sec-para {
+		font-size: 25px;
+	}
+	.series-sec-para {
+	font-size: 25px;
+	}
+}
+@media only screen and (min-width: 240px) and (max-width: 480px) {
+	.logo img {
+		width: 40%;
+		height: auto;
+		margin-bottom: 10%;
+		margin-top: 3%;
+		margin-left: 29%;
+	}
+	.nav-menu {
+		display: none;
+	}
+	.animes-movies img {
+		width: 75%;
+		height: auto;
+	}
+	.anime-series img {
+		width: 75%;
+		height: auto;
+	}
+	#row img {
+		margin-left: 12.5%;
+		margin-bottom: 30px;
+	}
+	.movies-sec-para {
+		font-size: 20px;
+		margin-bottom: 5%;
+	}
+	.series-sec-para {
+	font-size: 20px;
+	margin-bottom: 5%;
+	margin-top: 8%;
+	}
+	.mob-btn {
+		text-align: center;
+	}
+	#hide-in-mobile {
+		display: none;
+	}
+	#hide-btn-in-desktop {
+		display: contents;
+	}
+}
+@media only screen and (min-width: 400px) {
+	.mob-btn a {
+		margin-left: 33%;
+	}
+}

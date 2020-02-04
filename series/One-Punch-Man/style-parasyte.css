@@ -1,0 +1,127 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    background-color: white;
+}
+a {
+    text-decoration: none;
+}
+.logo {
+    text-align: center;
+}
+.logo img {
+    width: 10%;
+    height: auto;
+}
+.blog-thumbnail {
+    text-align: center;
+}
+.blog-thumbnail img {
+    width: 55%;
+    height: auto;
+    margin-top: 0%;
+}
+.head {
+    font-size: 15px;
+    text-align: center;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    letter-spacing: 2px;
+    font-family: 'Saira', sans-serif;
+    color: black;
+}
+.head a {
+    text-decoration: none;
+    font-weight: 700;
+    color: black;
+}
+.head a:hover {
+    color: #ff6818;
+    transition: all ease-in-out .5s;
+}
+.blog-summary {
+    font-size: 13px;
+}
+.blog-summary-para {
+    text-align: left;
+    padding-right: 8px;
+    font-weight: lighter;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    letter-spacing: 1px;
+}
+.blog-title-storyline {
+    text-align: center;
+    font-size: 15px;
+    text-align: left;
+    margin-top: 2%;
+    margin-left: 2%;
+    letter-spacing: 2px;
+    font-family: 'Saira', sans-serif;
+    margin-bottom: 1%;
+    font-weight: 600;
+}
+.blog-title-storyline a {
+    text-decoration: none;
+    color: black;
+}
+.blog-title-storyline a:hover {
+    color: #ff6818;
+    transition: all ease .5s;
+}
+.context {
+     font-family: 'Raleway', sans-serif;
+     font-weight: lighter;
+     margin-left: 3%;
+     padding-right: 10px;
+     letter-spacing: 1px;
+}
+.add-info-head {
+    font-family: 'Saira', sans-serif;
+    letter-spacing: 2px;
+    font-size: 15px;
+    margin-left: 2%;
+    margin-bottom: 1%;
+    font-weight: 600;
+}
+.add-info-head-context {
+     font-family: 'Raleway', sans-serif;
+     font-weight: lighter;
+     margin-left: 3%;
+     letter-spacing: 2px;
+}
+.widget-title {
+    font-family: 'Saira', sans-serif;
+    letter-spacing: 2px;
+    font-size: 15px;
+    color: black;
+    margin-top: 2%;
+    margin-bottom: 1%;
+    margin-left: 2%;
+    font-weight: 600;
+}
+.rc-single-post {
+    margin-left: 3%;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 200;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+.rc-single-post a {
+    text-decoration: none;
+    color: black;
+}
+.meta--content {
+    padding-bottom: 10px;
+}
+.meta--content a:hover {
+    color: #ff6818;
+    transition: all ease .5s;
+}
+.meta--content-ep9 {
+    margin-bottom: 3%;
+}
+.meta--content-ep9 a:hover {
+    color: #ff6818;
+    transition: all ease .5s;
+}

@@ -1,0 +1,113 @@
+@media all and (min-width: 991px) {
+	.download-sec {
+		margin-left: 35%;
+		margin-right: 35%;
+	}
+}
+@media all and (max-width: 991px) {
+	.section-text {
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+	.download-sec {
+		margin-right: 28%;
+		margin-left: 28%;
+	}
+	.download-sec a{
+		font-size: 16px;
+	}
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 767px) {
+	header {
+		text-align: center;
+	}
+	header img {
+		width: 20%;
+		height: auto;
+	}
+	.row {
+		text-align: center;
+	}
+	.row img {
+		width: 40%;
+		height: auto;
+	}
+	.download-sec {
+		margin-left: 25%;
+		margin-right: 25%;
+		font-size: 14px;
+	}
+	.stream-sec {
+		margin-left: 33%;
+		margin-right: 33%;
+		font-size: 14px;
+	}
+} 
+@media only screen and (max-width : 500px) {
+	header img {
+		width: 28%;
+		height: auto;
+	}
+	.section-text {
+		margin-top: 3%;
+	}
+	.section-title {
+		font-size: 15px;
+		margin-bottom: 4%;
+	}
+	.row {
+		text-align: center;
+	}
+	.row img {
+		width: 65%;
+		height: auto;
+	}
+	#hide-on-mobile {
+		display: none;
+	}
+	.section-title-small {
+		font-size: 15px;
+	}
+	.section-context {
+		margin-left: 4%;
+		margin-bottom: 2%;
+	}
+	.download-sec-head-context-btn {
+		font-size: 15px;
+		margin-top: 5%;
+	}
+	.stream-sec-head-context-btn {
+		font-size: 15px;
+		margin-top: 5%;
+	}
+	.download-sec {
+		margin-left: 20%;
+		margin-right: 20%;
+		margin-top: 3%;
+		font-size: 13px;
+	}
+	.stream-sec {
+		margin-left: 25%;
+		margin-right: 25%;
+		margin-top: 3%;
+		font-size: 13px;
+	}
+}
+/* Custom, iPhone Retina */ 
+@media only screen and (max-width : 360px) {
+    #hide-on-mobile {
+    	display: none;
+    }
+    .download-sec {
+    	margin-left: 21%;
+    	margin-right: 21%;
+    	font-size: 14px;
+    }
+    .stream-sec {
+    	margin-left: 21%;
+    	margin-right: 21%;
+    	font-size: 14px;
+    }
+}

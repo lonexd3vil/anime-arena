@@ -1,0 +1,28 @@
+@media all and (max-width: 991px) {
+	iframe {
+		width: 980px;
+		height: 630px;
+	}
+}
+@media only screen and (max-width : 767px) {
+	iframe {
+		width: 750px;
+		height: 631px;
+	}	
+} 
+@media only screen and (max-width : 480px) {
+	iframe {
+		width: 480px;
+		height: 630px;
+	}
+}
+@media only screen and (max-width : 420px) {
+	iframe {
+		width: 420px;
+	}
+}
+@media only screen and (max-width : 360px) {
+	iframe {
+		width: 360px;
+	}
+}
